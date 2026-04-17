@@ -1,4 +1,4 @@
-# 🚂 Smart Transport & Navigation System
+# 🚂 NexusNav — Graph Routing & Transit Engine
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![OOP](https://img.shields.io/badge/OOP-Enabled-brightgreen?style=for-the-badge)
